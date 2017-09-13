@@ -76,3 +76,6 @@ Create          /dogs/:id/comments        POST
 # Style Show Page
 * Add side bar to show page
 * Display Comment nicely
+
+# Authentication
+* 
